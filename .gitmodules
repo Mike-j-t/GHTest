@@ -1,0 +1,3 @@
+[submodule "GHTest.wiki"]
+	path = GHTest.wiki
+	url = https://github.com/GHTest/GHTest.wiki
